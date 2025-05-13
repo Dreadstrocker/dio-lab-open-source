@@ -2,6 +2,7 @@
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
     <span> Guia de Contribuição</span>
+<p> Modifiquei a linha 91, antes vazia, na seção "Convenção de Commits".</p>
 </h1>
 
 [![Star](https://img.shields.io/github/stars/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/stargazers)
@@ -87,7 +88,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         | `style: add EFFECTNAME to COMPONENT`
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService`
-
+| 'analytics'    | Lê e performa análises quantos commits realizado por mês.            | 'analyze: read Commit Data from XX/YY/ZZZZ and beyond'
 
 ## Referências
 - [ANGULAR. Contributing to Angular](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md)
